@@ -266,6 +266,10 @@ img {
     margin-left: 60px;
 }
 
+.girl > img {
+    height: 704px;
+}
+
 
 .girl-year {
     height: 120px;
