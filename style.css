@@ -426,3 +426,245 @@ img {
 
 
 
+
+
+/* media screen 576px */
+
+@media screen and (max-width:576px) {
+   
+
+img {
+    width: 100%;
+}
+.head-g {
+    margin-left: 40px;
+    font-size: 28px;
+    
+  
+    
+}
+
+
+.bars > li > a {
+    display: none;
+}
+
+.nav {
+    background-image: url("vector.png");
+    background-size: 40px;
+    background-repeat: no-repeat;
+    margin-left: 190px;
+    cursor: pointer;
+}
+
+
+.brand-head {
+    font-size: 28px;
+}
+
+.brand-para {
+    font-size: 10px;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 6px;
+    line-height: 17px;
+    font-weight: 600;
+}
+
+.brand-button {
+    width: 120px;
+    height: 50px;
+    font-size: 14px;
+    margin-top: -10px;
+}
+
+.header-img {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.header-img > img {
+    height: 300px;
+}
+
+.container-1 {
+    margin-top: -30px;
+}
+
+
+
+.img1 > img {
+    width: 100px;
+    height: 100px;
+}
+
+.con1-img {
+    row-gap: 10px;
+    column-gap: 10px;
+    margin-top: 50px;
+}
+
+
+.quick {
+    margin-top: 70px;
+    font-size: 20px;
+    margin-left: 5px;
+}
+
+
+.quick-para {
+    font-size: 10px;
+    margin-left: 5px;
+    width: 220px;
+    margin-top: 3px;
+   
+}
+
+
+.quick-btn {
+    width: 100px;
+    height: 40px;
+    font-size: 14px;
+    margin-top: -10px;
+    font-size: 10px;
+}
+
+.quick-button {
+    margin-left: 5px;
+}
+
+
+.con2-head {
+    margin-left: 10px;
+    gap: -10px;
+}
+
+.enjoy-para {
+    margin-left: 10px;
+    font-size: 12px;
+    width: 300px;
+    margin-top: 10px;
+}
+ .quick-con {
+    margin-left: 10px;
+ }
+
+ .enjoy-head {
+    font-size: 25px;
+ }
+
+ .orange {
+    height: 65px;
+ }
+
+ .con-quick {
+    width: 240px;
+ }
+
+
+ .name {
+    font-size: 14px;
+ }
+
+ .para {
+    font-size: 10px;
+ }
+ .container-2 {
+    gap: 3px;
+    margin-bottom: 10px;
+ }
+
+ .girl {
+margin-left: 5px;
+margin-right: -45px;
+ }
+ .girl > img {
+   height: 616px;
+   width: 100%;
+ }
+
+ .girl-year {
+    width: 140px;
+    height: 90px;
+    font-size: 20px;
+    margin-top: -70px;
+    margin-left: -10px;
+ }
+
+ .con3-head {
+    margin-top: -60px;
+    margin-left: 10px;
+    font-size: 28px;
+ }
+
+ .con3-para {
+    margin-left: 10px;
+    font-size: 12px;
+    line-height: 17px;
+    width: 450px;
+ }
+
+
+ .con3-info {
+    flex-direction: column;
+    margin-left: 20px;
+    margin-top: 60px;
+ }
+
+
+.num {
+    font-size: 24px;
+}
+
+.par {
+    font-size: 16px;
+}
+
+
+
+.footer {
+    margin-top: -100px;
+}
+
+.sponser {
+    font-size: 28px;
+}
+
+.sponser-para {
+    font-size: 11px;
+    line-height: 16px;
+    width: 400px;
+    margin-top: 25px;
+    margin-bottom: 60px;
+
+}
+
+
+.footer-images {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 70px;
+}
+
+.img-foot {
+    margin-top: -60px;
+}
+   
+
+
+.rights {
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 60px;
+    margin-bottom: 100px;
+}
+
+.all {
+    font-size: 10px;
+}
+
+
+
+}
+
